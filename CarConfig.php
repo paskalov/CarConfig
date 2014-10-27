@@ -44,11 +44,6 @@ class RaceCar implements RaceCarInterface {
 	}
 
 }	
-
-	//test
-	$obj = new RaceCar(4, 7, new Engine(200));
-	echo $obj->getMaxSpeed();
-
 	
 	
 ?>	
